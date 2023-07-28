@@ -2,7 +2,6 @@
   text-align: center;
   margin: 64px auto 64px;
   width: 540px;
-
 }
 
 #main p {
@@ -11,9 +10,13 @@
   font-size: 15px;
 
 }
+#main img {
+  margin-bottom: 32px;
+}
 
 #main h1{
   color: #3F3D56;
+  margin-bottom: 32px;
 }
 
 #main span {
@@ -26,14 +29,16 @@
 
 #footer a + a{
   color: #3F3D56;
-  margin-left: 28px;
+  margin-left: 42px;
+}
+
+#footer {
+  text-align: center;
 }
 
 #onda{
-  position: fixed;
-  bottom: 0px;
-  right: 0px;
-  
+  text-align:center;
+  margin-block-end: 0;
 }
 
 #line{
@@ -41,4 +46,5 @@
   height: 0px;
   border: 1px solid #ECEFF2;
   margin: 0px auto 8px;
+  margin-bottom: 16px;
 }
