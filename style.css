@@ -1,0 +1,44 @@
+#main{
+  text-align: center;
+  margin: 64px auto 64px;
+  width: 540px;
+
+}
+
+#main p {
+  color:#828282;
+  font-family: 'Open Sans';
+  font-size: 15px;
+
+}
+
+#main h1{
+  color: #3F3D56;
+}
+
+#main span {
+  color: #EE24FF;
+}
+
+#main p span {
+  color: #3F3D56;
+}
+
+#footer a + a{
+  color: #3F3D56;
+  margin-left: 28px;
+}
+
+#onda{
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  
+}
+
+#line{
+  width: 361px;
+  height: 0px;
+  border: 1px solid #ECEFF2;
+  margin: 0px auto 8px;
+}
